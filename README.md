@@ -12,7 +12,7 @@ Prepare the lists from the matrix and assign in np.array()
 ### Step 3: 
 Use the np.linalg.inv() fun
 ### Step 4: 
-End the program
+End the program.
 ## Program:
 #Program to find the inverse of a matrix.
 #Developed by: GAUTHAM KRISHNA S    
