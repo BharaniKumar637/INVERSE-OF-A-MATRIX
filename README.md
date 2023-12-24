@@ -14,6 +14,7 @@ Use the np.linalg.inv() fun
 ### Step 4: 
 End the program.
 ## Program:
+```
 #Program to find the inverse of a matrix.
 #Developed by: GAUTHAM KRISHNA S    
 #RegisterNumber:23012450
@@ -21,6 +22,7 @@ import numpy as np
 A = [[6,2,3],[3,1,1],[10,3,4]]
 B = np.linalg.inv(A)
 print(B)
+```
 ## Output:
 ![Screenshot 2023-12-24 220723](https://github.com/gauthamkrishna7/INVERSE-OF-A-MATRIX/assets/141175025/bf294d0d-5b21-4ce7-88d4-5cca719a29c2)
 ## Result:
